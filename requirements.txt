@@ -35,6 +35,7 @@ telegraph
 async_pymongo
 gpytranslate
 search_engine_parser
+py-tgcalls==0.9.7
 gtts
 git+https://github.com/AsmSafone/SafoneAPI
 lexica-api==1.5.7
