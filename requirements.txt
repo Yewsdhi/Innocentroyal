@@ -1,6 +1,7 @@
 aiofiles
 aiohttp==3.8.4
 asyncio==3.4.3
+pymongo==4.6.0
 beautifulsoup4
 dnspython
 blackpink
